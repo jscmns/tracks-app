@@ -9,6 +9,11 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+package-lock.json
+.vscode
+.expo-shared
+.git
+assets
 
 # macOS
 .DS_Store
